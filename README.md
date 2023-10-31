@@ -9,20 +9,30 @@
 ## Technologies Used
 
 * _React_
-* _JavaScript/CSS_
+* _JavaScript/JSX_
+* _CSS_
 * _Bootstrap_
 * _Emailjs_
 * _Nodemailer_
 * _Node.js_
 * _VS Code_
 
+__ Component Diagram__
+[![Component Hierarchy](./src/assets/img/component_diagram.png)]
+
 ## Setup/Installation Requirements
 
-* First, copy the git repository url and open a shell program & navigate to your machine's desktop
-* Clone the repository using the copied URL and the `git clone` command
-* In the shell program, navigate to the root directory of the newly created file called "inventory-tracker"
-* Run the `npm install` command to install dependencies
-* After the installation updates, in the root directory type `npm run start` to start the program
+* First, copy the git repository url and open a shell program & navigate to your machine's desktop.
+* Clone the repository using the copied URL and the `git clone` command.
+* In the shell program, navigate to the root directory of the newly created file called "chef-mike"
+* Run the `npm install` command to install dependencies.
+```
+$ npm install
+```
+* After the installation updates, in the root directory type `npm run start` to build and start the project.
+```
+$ npm run start
+```
 * If the web page doesn't open on its own, open a web browser (such as Google Chrome) and enter the following into the URL: `http://localhost:3000/`
 
 <!-- * Or consider visiting the portfolio directly at it's [hosted domain.](https://eliot-gronstal-porfolio.vercel.app/) -->
