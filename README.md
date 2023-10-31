@@ -18,7 +18,7 @@
 * _VS Code_
 
 __ Component Diagram__
-[![Component Hierarchy](./src/assets/img/component_diagram.png)]
+![Component Hierarchy](./src/assets/img/component_diagram.png)
 
 ## Setup/Installation Requirements
 
