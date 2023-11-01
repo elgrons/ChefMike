@@ -11,7 +11,7 @@
 * _React_
 * _JavaScript/JSX_
 * _CSS_
-* _Bootstrap_
+* _Material UI_
 * _Emailjs_
 * _Nodemailer_
 * _Node.js_
