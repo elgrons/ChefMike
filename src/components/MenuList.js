@@ -1,11 +1,13 @@
-import Menu from "./Menu";
-import  { React } from "react";
+import { Menu } from "./Menu";
+import React from "react";
 import './App.css';
 
-export const MenuList = () => {
+function MenuList() {
   return (
     <>
     <Menu />
     </>
   )
 }
+
+export default MenuList;
