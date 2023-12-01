@@ -46,13 +46,12 @@ export const Header = () => {
           >
             <MenuIcon />
           </IconButton>
+          <Link to="/" className={classes.link}>
           <Typography variant="h4" className={classes.logo}>
           Chef Mike
         </Typography>
+        </Link>
           <div className={classes.navlinks}>
-            <Link to="/" className={classes.link}>
-              Home
-            </Link>
             <Link to="/why" className={classes.link}>
               The Why
             </Link>
