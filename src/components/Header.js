@@ -24,7 +24,7 @@ logo: {
     fontSize: "20px",
     marginLeft: theme.spacing(20),
     "&:hover": {
-      color: "yellow",
+      color: "red",
       borderBottom: "1px solid white",
     },
   },

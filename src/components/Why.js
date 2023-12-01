@@ -5,6 +5,7 @@ export const Why = () => {
 
   return (
     <>
+    <p>Reasons why to Get a Private Chef</p>
     </>
   )
 }
