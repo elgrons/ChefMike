@@ -1,6 +1,6 @@
-import MenuList from "./MenuList";
+import MenuList from "../MenuList/MenuList";
 import  { React } from "react";
-import './App.css';
+import '../App.css';
 
 export const MenuControl = () => {
 
