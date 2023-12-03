@@ -1,12 +1,12 @@
 import  { React } from "react";
-import '../App.css';
+import './../../App.css';
 import './Why.scss';
 
 export const Why = () => {
 
   return (
     <>
-    <p>Reasons why to Get a Private Chef</p>
+    <h1>Reasons why to Get a Private Chef</h1>
     </>
   )
 }

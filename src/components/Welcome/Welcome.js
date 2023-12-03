@@ -1,5 +1,4 @@
 import  { React } from "react";
-import '../App.css';
 import './Welcome.scss';
 
 export const Welcome = () => {
