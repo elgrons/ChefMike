@@ -6,7 +6,8 @@ import Toolbar from '@mui/material/Toolbar';
 import IconButton from '@mui/material/IconButton';
 import Typography from '@mui/material/Typography';
 import MenuIcon from '@mui/icons-material/Menu';
-import { makeStyles } from '@material-ui/core';
+import { makeStyles, Collapse } from '@material-ui/core';
+// import { Collapse } from '@mui/material';
 import { Link } from "react-router-dom";
 
 const useStyles = makeStyles((theme) => ({
@@ -44,7 +45,7 @@ export const Header = () => {
             aria-label="menu"
             sx={{ mr: 2 }}
           >
-            <MenuIcon />
+            {/* <MenuIcon /> */}
           </IconButton>
           <Link to="/" className={classes.link}>
           <Typography variant="h4" className={classes.logo}>
