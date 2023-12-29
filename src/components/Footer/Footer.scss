@@ -1,5 +1,21 @@
+.footer-section {
+  // text-align: center;
+  font-variant: small-caps;
+  font-size: 1.25rem;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  color: #ffefe6;
+  text-shadow: 4px 4px 4px #130f0f;
+  background: hsl(22, 54%, 73%);
+  display: inline-flex;
+  margin-right: 6px;
+  align-items: center;
+  justify-content: center;
+}
+
 .social-icon {
-height: 42px;
-width: 42px;
-align-content: center;
+  height: 42px;
+  width: 42px;
 }
