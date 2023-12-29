@@ -1,10 +1,12 @@
 import  { React } from "react";
+import welcomeImg from "../../assets/img/Chef-Mike.png";
 import './Welcome.scss';
 
 export const Welcome = () => {
   return (
     <>
-    <h1>Welcome to Chef Mike's Personal Chef Web Page</h1>
+    <h1>Your Private Chef: Mike</h1>
+    <img src={welcomeImg} alt="Welcome Img of Chef Mike"/>
     </>
   )
 }

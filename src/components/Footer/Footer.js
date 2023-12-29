@@ -6,7 +6,7 @@ export const Footer = () => {
   return (
     <>
       <div className="footer-section">
-        <p>Chef Mike Footer</p>
+        <p>Copyright 2023. All Rights Reserved.</p>
         <div className="social-icon">
           <a href="https://www.instagram.com/advntrsekr/">
             <img src={InstaLink} alt="Instagram nav icon" />
