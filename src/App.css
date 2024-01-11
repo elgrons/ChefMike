@@ -5,6 +5,38 @@
   box-sizing: border-box;
 }
 
+body {
+  font-weight: 400;
+  overflow-x: hidden;
+  position: relative;
+} 
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+  line-height: normal;
+}
+
+p, a, li, button, ul {
+  margin: 0;
+  padding: 0;
+  line-height: normal;
+  text-decoration: none;
+  color: #000 !important;
+  font-weight: 400;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+
+.items {
+  display: flex;
+  justify-content: space-between;
+}
+
 .App {
   text-align: center;
 }
