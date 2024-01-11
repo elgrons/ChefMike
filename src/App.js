@@ -18,11 +18,11 @@ function App() {
     <Header />
     <Routes>
       <Route exact path="/" element={<Welcome />} />
-      <Route exact path="/why" element={<Why />} />
       <Route exact path="/about" element={<AboutTheChef />} />
       <Route exact path="/menu" element={<Menu />} />
       <Route exact path="/booking" element={<BookingInfo />} />
       <Route exact path="/media" element={<MediaFeed />} />
+      <Route exact path="/why" element={<Why />} />
       <Route exact path="/contact" element={<Contact />} />
     </Routes>
     <Footer />
