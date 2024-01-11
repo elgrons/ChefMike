@@ -6,7 +6,6 @@ export const Welcome = () => {
   return (
     <>
     <h1>Your Private Chef: Mike</h1>
-    {/* <img src={welcomeImg} alt="Welcome Img of Chef Mike"/> */}
     </>
   )
 }
